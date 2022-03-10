@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img{
+    width: 450px;
+    height: auto;
+    padding:10px;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 3em;
+    font-family: 'Hubballi', cursive;
+    border-bottom: 2px solid pink;border-right: 2px solid pink;
+    width:400px;
+    text-align:center;
+    }
